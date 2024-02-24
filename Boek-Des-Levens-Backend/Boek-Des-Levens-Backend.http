@@ -1,0 +1,6 @@
+@Boek_Des_Levens_Backend_HostAddress = http://localhost:5111
+
+GET {{Boek_Des_Levens_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
